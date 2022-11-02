@@ -14,3 +14,10 @@ adicionar opções de menu para acrescentar botões à barra de apps.
 oque foi criado seguindo a documentação 
 
 Você vai modificar um app de dicionário para implementar a navegação entre telas usando intents e adicionando um menu "opções
+
+
+![WhatsApp Image 2022-11-02 at 13 54 38](https://user-images.githubusercontent.com/71970033/199553491-e4ec4831-abda-4f75-85b7-0f92577aa568.jpeg)
+
+![WhatsApp Image 2022-11-02 at 13 54 37](https://user-images.githubusercontent.com/71970033/199553509-882e727b-235f-431b-9a2b-9b0a642f3324.jpeg)
+
+![WhatsApp Image 2022-11-02 at 13 54 37 (1)](https://user-images.githubusercontent.com/71970033/199553531-5859334f-fa21-411d-9791-4ea65ba45f71.jpeg)
