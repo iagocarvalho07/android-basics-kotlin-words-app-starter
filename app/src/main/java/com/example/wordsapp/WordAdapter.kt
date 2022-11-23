@@ -24,8 +24,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.accessibility.AccessibilityNodeInfo
 import android.widget.Button
-import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
+import androidx.annotation.RequiresApi
 import java.net.URL
 
 /**
